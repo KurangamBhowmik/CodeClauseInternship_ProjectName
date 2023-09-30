@@ -1,0 +1,2 @@
+public class editor {
+}
